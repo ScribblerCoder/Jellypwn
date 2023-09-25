@@ -1,0 +1,22 @@
+[
+  
+    {
+      "guid": "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC",
+      "name": "myplugin",
+      "description": "description",
+      "overview": "This plugin does something",
+      "owner": "n0tme",
+      "category": "s0m3c4t3g0ry",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg",
+      "versions": [
+        {
+          "version": "1.0.0.0",
+          "changelog": "Check github for changelog",
+          "targetAbi": "10.8.4.0",
+          "sourceUrl": "http://MYIP:WEBPORT/bin/Debug/net6.0/MyJellyfinPlugin.zip",
+          "checksum": "PLUGIN_CHECKSUM",
+          "timestamp": "2022-02-11T02:07:34Z"
+        }
+      ]
+    }
+  ]
