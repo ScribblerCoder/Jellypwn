@@ -8,9 +8,9 @@ Get a reverse-shell on jellyfin using plugins
 
 ## PoC video
 
-<!--![website2](https://github.com/ScribblerCoder/Jellypwn/assets/35840617/eec2b7b0-43af-4c65-9a65-19ccfb555718)-->
+<!--![website2](https://github.com/ScribblerCoder/Jellypwn/assets/35840617/155316da-464b-4d46-873b-a167b54d166b)-->
 <p align="center">
-<img src="https://github.com/ScribblerCoder/Jellypwn/assets/35840617/eec2b7b0-43af-4c65-9a65-19ccfb555718" width="800">
+<img src="https://github.com/ScribblerCoder/Jellypwn/assets/35840617/155316da-464b-4d46-873b-a167b54d166b" width="800">
 </p>
 <br/>
 
