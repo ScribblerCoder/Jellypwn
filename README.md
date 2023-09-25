@@ -4,7 +4,7 @@ Get a reverse-shell on jellyfin using plugins
 
 <https://github.com/jellyfin/jellyfin-web/issues/4653>
 
-**TDLR;** Jellyfin allows you to upload plugins to the server, these plugins are just .zip files with a dll file inside it. You can upload a plugin that executes a reverse-shell on the server.
+**TDLR;** Jellyfin allows you (admin user) to upload plugins to the server, these plugins are just .zip files with a dll file inside it. You can upload a plugin that executes a reverse-shell on the server.
 
 ## PoC video
 
@@ -16,7 +16,7 @@ Get a reverse-shell on jellyfin using plugins
 
 ## How to use
 
-This repo builds the plugin and hosts on a webserver
+This repo builds the plugin and hosts it on a webserver, using microsoft's dotnet SDK docker image. You can build the plugin yourself if you have dotnet.
 
 ```console
 bash build.sh [-p LISTENPORT] [-l WEBPORT] [-i IP]
