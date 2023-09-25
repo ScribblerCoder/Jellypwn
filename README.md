@@ -16,7 +16,7 @@ Get a reverse-shell on jellyfin using plugins
 
 ## How to use
 
-This repo builds the plugin and hosts it on a webserver, using microsoft's dotnet SDK docker image. You can build the plugin yourself if you have dotnet.
+This repo builds the plugin and hosts it on a webserver, using microsoft's dotnet SDK docker image. You can build the plugin yourself if you have dotnet (don't forget to replace your own IP and listener Port).
 
 ```console
 bash build.sh [-p LISTENPORT] [-l WEBPORT] [-i IP]
